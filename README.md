@@ -47,8 +47,8 @@ TheHerokuApp/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/prathamji02/TheHerokuApp-Automation.git
-cd TheHerokuApp-Automation
+git clone https://github.com/prathamji02/TheHerokuApp.git
+cd TheHerokuApp
 npm install
 ```
 
